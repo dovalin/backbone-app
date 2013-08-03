@@ -1,0 +1,1 @@
+Testing backbone apps using Yeoman (http://yeoman.io/) : A collection of tools and best practices working in harmony to make developing for the web even better.
